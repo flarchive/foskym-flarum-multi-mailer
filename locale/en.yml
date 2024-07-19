@@ -1,0 +1,14 @@
+core:
+  admin:
+    email:
+      mail_from_label: => core.admin.email.addresses_heading
+      mail_suffix_label: => foskym-multi-mailer.admin.email.mail_suffix
+
+foskym-multi-mailer:
+  # For more details on the format
+  # Checkout https://docs.flarum.org/extend/i18n/#appendix-a-standard-key-format
+  admin:
+    email:
+      mail_suffix: 'Mail Suffix'
+
+  forum:
